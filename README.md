@@ -1,4 +1,4 @@
-# Async Blog Homepage: Data Loading & Typing Fix
+# Async Blog Homepage: Data Loading & Typing Fix Edit
 
 ## Task Overview
 The startup's blog homepage is critical for SEO and first impressions. However, users experience loading flickers, occasional errors, and undefined post titles due to missing TypeScript types and improper asynchronous data fetching. Improving this is crucial for both perception and maintainability.
